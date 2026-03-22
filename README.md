@@ -86,7 +86,7 @@ There is no signup, no relay server, and no third-party dependency at runtime. T
 ┌──────────────────────────────────────────────────────────┐
 │                        shr binary                        │
 │                                                          │
-│  main.cpp ──► command dispatch                           │
+│  main.cxx ──► command dispatch                           │
 │                                                          │
 │  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌─────────┐ │
 │  │ identity │  │ transfer │  │messaging │  │  peers  │ │
